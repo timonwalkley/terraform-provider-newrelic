@@ -512,8 +512,8 @@ gopkg.in/jarcoal/httpmock.v1 v1.0.0-20190204112747-618f46f3f0c8/go.mod h1:d3R+Nl
 gopkg.in/resty.v0 v0.4.1/go.mod h1:SoKE7c8eCdxGIKuwCiutqghw8XPJ9SmessKt5Y965OQ=
 gopkg.in/resty.v1 v1.9.1 h1:Lq4EIBZ5e2J4ZWp22W2hVOYc0X1qwDDki/nNVchRbdw=
 gopkg.in/resty.v1 v1.9.1/go.mod h1:vo52Hzryw9PnPHcJfPsBiFW62XhNx5OczbV9y+IMpgc=
-gopkg.in/resty.v1 v1.11.0 h1:z5nqGs/W/h91PLOc+WZefPj8rRZe8Ctlgxg/AtbJ+NE=
-gopkg.in/resty.v1 v1.11.0/go.mod h1:mDo4pnntr5jdWRML875a/NmxYqAlA73dVijT2AXvQQo=
+gopkg.in/resty.v1 v1.12.0 h1:CuXP0Pjfw9rOuY6EP+UvtNvt5DSqHpIxILZKT/quCZI=
+gopkg.in/resty.v1 v1.12.0/go.mod h1:mDo4pnntr5jdWRML875a/NmxYqAlA73dVijT2AXvQQo=
 gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7/go.mod h1:dt/ZhP58zS4L8KSrWDmTeBkI65Dw0HsyUHuEVlX15mw=
 gopkg.in/vmihailenco/msgpack.v2 v2.9.1/go.mod h1:/3Dn1Npt9+MYyLpYYXjInO/5jvMLamn+AEGwNEOatn8=
 gopkg.in/yaml.v2 v2.2.1 h1:mUhvW9EsL+naU5Q3cakzfE91YhliOondGd6ZrsDBHQE=
